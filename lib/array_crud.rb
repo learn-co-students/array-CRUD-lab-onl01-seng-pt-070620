@@ -1,12 +1,15 @@
-def create_an_empty_array
-  
+def create_an_empty_array 
+  []
+ 
 end
 
-def create_an_array
-  
+def create_an_array(earth, water, wind, fire)
+puts create_an_array = ["earth", "water", "wind", "fire"]
 end
 
 def add_element_to_end_of_array(array, element)
+  puts add_element_to_end_of_array << "arrays!"
+  
   
 end
 
